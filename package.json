@@ -1,0 +1,8 @@
+{
+  "name": "js-x15ucq",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "html2canvas": "^1.0.0-alpha.12"
+  }
+}
